@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Shivangiroy20/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/Shivangiroy20/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Shivangiroy20/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Shivangiroy20/leetcode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->

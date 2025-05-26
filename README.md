@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Shivangiroy20/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Prefix Sum
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Two Pointers
 |  |
@@ -90,5 +92,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->

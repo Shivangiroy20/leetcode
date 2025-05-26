@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Shivangiroy20/leetcode/tree/master/3194-find-words-containing-character) |
 ## Counting

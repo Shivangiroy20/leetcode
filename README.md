@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shivangiroy20/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [3194-find-words-containing-character](https://github.com/Shivangiroy20/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3647-zero-array-transformation-iii) |

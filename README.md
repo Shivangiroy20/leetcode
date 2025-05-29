@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0541-reverse-string-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Shivangiroy20/leetcode/tree/master/0242-valid-anagram) |
+| [0541-reverse-string-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0541-reverse-string-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shivangiroy20/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Shivangiroy20/leetcode/tree/master/2226-rings-and-rods) |

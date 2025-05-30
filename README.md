@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Shivangiroy20/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Shivangiroy20/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3194-find-words-containing-character](https://github.com/Shivangiroy20/leetcode/tree/master/3194-find-words-containing-character) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Shivangiroy20/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Counting
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Shivangiroy20/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 <!---LeetCode Topics End-->

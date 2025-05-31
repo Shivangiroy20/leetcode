@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivangiroy20/leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shivangiroy20/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Shivangiroy20/leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |

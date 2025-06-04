@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivangiroy20/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shivangiroy20/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Shivangiroy20/leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0945-snakes-and-ladders](https://github.com/Shivangiroy20/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivangiroy20/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivangiroy20/leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shivangiroy20/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shivangiroy20/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shivangiroy20/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shivangiroy20/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |

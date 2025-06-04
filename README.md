@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Shivangiroy20/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Shivangiroy20/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shivangiroy20/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Shivangiroy20/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Shivangiroy20/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivangiroy20/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Shivangiroy20/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Shivangiroy20/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0234-palindrome-linked-list) |

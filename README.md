@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shivangiroy20/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Shivangiroy20/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shivangiroy20/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Shivangiroy20/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shivangiroy20/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shivangiroy20/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Shivangiroy20/leetcode/tree/master/0415-add-strings) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shivangiroy20/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Shivangiroy20/leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivangiroy20/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

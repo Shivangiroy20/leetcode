@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivangiroy20/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/Shivangiroy20/leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shivangiroy20/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Shivangiroy20/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Shivangiroy20/leetcode/tree/master/0812-rotate-string) |
 ## Design
 |  |
 | ------- |

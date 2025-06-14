@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shivangiroy20/leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Shivangiroy20/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Shivangiroy20/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivangiroy20/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Shivangiroy20/leetcode/tree/master/0782-jewels-and-stones) |

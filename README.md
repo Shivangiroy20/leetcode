@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivangiroy20/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shivangiroy20/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangiroy20/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Shivangiroy20/leetcode/tree/master/0135-candy) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shivangiroy20/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shivangiroy20/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Shivangiroy20/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivangiroy20/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivangiroy20/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivangiroy20/leetcode/tree/master/0374-guess-number-higher-or-lower) |

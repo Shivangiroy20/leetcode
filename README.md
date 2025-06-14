@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Shivangiroy20/leetcode/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0945-snakes-and-ladders](https://github.com/Shivangiroy20/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivangiroy20/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Shivangiroy20/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivangiroy20/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Shivangiroy20/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Shivangiroy20/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Prefix Sum
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivangiroy20/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivangiroy20/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Shivangiroy20/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Shivangiroy20/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Shivangiroy20/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/Shivangiroy20/leetcode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivangiroy20/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |

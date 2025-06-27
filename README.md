@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Shivangiroy20/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shivangiroy20/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shivangiroy20/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Shivangiroy20/leetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Shivangiroy20/leetcode/tree/master/0837-most-common-word) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivangiroy20/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shivangiroy20/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivangiroy20/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -498,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivangiroy20/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->

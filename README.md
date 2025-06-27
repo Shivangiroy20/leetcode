@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Shivangiroy20/leetcode/tree/master/0202-happy-number) |
+| [0390-elimination-game](https://github.com/Shivangiroy20/leetcode/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Shivangiroy20/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shivangiroy20/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shivangiroy20/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/Shivangiroy20/leetcode/tree/master/0390-elimination-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |

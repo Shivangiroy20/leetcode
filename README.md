@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivangiroy20/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/Shivangiroy20/leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivangiroy20/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivangiroy20/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivangiroy20/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivangiroy20/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivangiroy20/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Matrix
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Shivangiroy20/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivangiroy20/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivangiroy20/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Depth-First Search
 |  |

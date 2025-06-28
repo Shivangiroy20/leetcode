@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shivangiroy20/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1260-day-of-the-year](https://github.com/Shivangiroy20/leetcode/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shivangiroy20/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shivangiroy20/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1260-day-of-the-year](https://github.com/Shivangiroy20/leetcode/tree/master/1260-day-of-the-year) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shivangiroy20/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |

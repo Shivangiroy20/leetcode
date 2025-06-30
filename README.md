@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivangiroy20/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/3321-type-of-triangle) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivangiroy20/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3639-zero-array-transformation-i](https://github.com/Shivangiroy20/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shivangiroy20/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivangiroy20/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivangiroy20/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivangiroy20/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivangiroy20/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Shivangiroy20/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shivangiroy20/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0389-find-the-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivangiroy20/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Tree
 |  |
 | ------- |

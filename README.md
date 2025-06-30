@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shivangiroy20/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Shivangiroy20/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shivangiroy20/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Shivangiroy20/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shivangiroy20/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shivangiroy20/leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shivangiroy20/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Shivangiroy20/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivangiroy20/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shivangiroy20/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Shivangiroy20/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Shivangiroy20/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/Shivangiroy20/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Shivangiroy20/leetcode/tree/master/0817-design-hashmap) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Shivangiroy20/leetcode/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/Shivangiroy20/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shivangiroy20/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |

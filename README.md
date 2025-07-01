@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Shivangiroy20/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Shivangiroy20/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shivangiroy20/leetcode/tree/master/0500-keyboard-row) |
+| [0539-minimum-time-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Shivangiroy20/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shivangiroy20/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shivangiroy20/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0539-minimum-time-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1260-day-of-the-year](https://github.com/Shivangiroy20/leetcode/tree/master/1260-day-of-the-year) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shivangiroy20/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shivangiroy20/leetcode/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shivangiroy20/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Shivangiroy20/leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Shivangiroy20/leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Shivangiroy20/leetcode/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Shivangiroy20/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shivangiroy20/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |

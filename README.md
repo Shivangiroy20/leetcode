@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Shivangiroy20/leetcode/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/Shivangiroy20/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Shivangiroy20/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivangiroy20/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shivangiroy20/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Shivangiroy20/leetcode/tree/master/0874-backspace-string-compare) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivangiroy20/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/Shivangiroy20/leetcode/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/Shivangiroy20/leetcode/tree/master/0857-positions-of-large-groups) |
+| [0874-backspace-string-compare](https://github.com/Shivangiroy20/leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Shivangiroy20/leetcode/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/Shivangiroy20/leetcode/tree/master/0965-unique-email-addresses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Shivangiroy20/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Shivangiroy20/leetcode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Shivangiroy20/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Shivangiroy20/leetcode/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shivangiroy20/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Shivangiroy20/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivangiroy20/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |

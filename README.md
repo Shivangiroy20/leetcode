@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivangiroy20/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Shivangiroy20/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivangiroy20/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shivangiroy20/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Shivangiroy20/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivangiroy20/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Shivangiroy20/leetcode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/Shivangiroy20/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Shivangiroy20/leetcode/tree/master/0817-design-hashmap) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivangiroy20/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
 | ------- |

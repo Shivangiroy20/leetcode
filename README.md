@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Shivangiroy20/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shivangiroy20/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivangiroy20/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shivangiroy20/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shivangiroy20/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0240-search-a-2d-matrix-ii) |

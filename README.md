@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivangiroy20/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Shivangiroy20/leetcode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivangiroy20/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivangiroy20/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shivangiroy20/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Shivangiroy20/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivangiroy20/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Shivangiroy20/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Shivangiroy20/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |

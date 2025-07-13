@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivangiroy20/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivangiroy20/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivangiroy20/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivangiroy20/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/Shivangiroy20/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivangiroy20/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivangiroy20/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivangiroy20/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivangiroy20/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |

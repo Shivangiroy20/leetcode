@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shivangiroy20/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangiroy20/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Shivangiroy20/leetcode/tree/master/0135-candy) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Shivangiroy20/leetcode/tree/master/0179-largest-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivangiroy20/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Shivangiroy20/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Shivangiroy20/leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0148-sort-list) |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Shivangiroy20/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivangiroy20/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivangiroy20/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivangiroy20/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shivangiroy20/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Shivangiroy20/leetcode/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Shivangiroy20/leetcode/tree/master/0179-largest-number) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shivangiroy20/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivangiroy20/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -620,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shivangiroy20/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Queue

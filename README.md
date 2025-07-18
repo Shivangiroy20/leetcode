@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangiroy20/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Shivangiroy20/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0137-single-number-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivangiroy20/leetcode/tree/master/0152-maximum-product-subarray) |

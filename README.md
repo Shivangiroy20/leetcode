@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shivangiroy20/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivangiroy20/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangiroy20/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shivangiroy20/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Shivangiroy20/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Shivangiroy20/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Shivangiroy20/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Shivangiroy20/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Shivangiroy20/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shivangiroy20/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shivangiroy20/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -665,5 +669,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shivangiroy20/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivangiroy20/leetcode/tree/master/0079-word-search) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shivangiroy20/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Shivangiroy20/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shivangiroy20/leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shivangiroy20/leetcode/tree/master/0066-plus-one) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shivangiroy20/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0148-sort-list) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shivangiroy20/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Shivangiroy20/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shivangiroy20/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shivangiroy20/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Shivangiroy20/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shivangiroy20/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Shivangiroy20/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Shivangiroy20/leetcode/tree/master/0093-restore-ip-addresses) |

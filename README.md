@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Shivangiroy20/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivangiroy20/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivangiroy20/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivangiroy20/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Shivangiroy20/leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Shivangiroy20/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/Shivangiroy20/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivangiroy20/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Shivangiroy20/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shivangiroy20/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Shivangiroy20/leetcode/tree/master/0463-island-perimeter) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivangiroy20/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Shivangiroy20/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shivangiroy20/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Shivangiroy20/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shivangiroy20/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivangiroy20/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Queue
 |  |
 | ------- |

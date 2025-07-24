@@ -1,20 +1,15 @@
-import java.util.*;
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int count =0;
-        int first = -1;
-        int last = -1;
-        for(int i=0; i<nums.length; i++){
+        int count  = 0;
+         int first  = -1;
+          int last  = -1; 
+          for(int i=0; i<nums.length; i++){
             if(nums[i] == target){
-                count++;
-                System.out.println(i);
-                if(first == -1){
-                    first = i;
-                }
-                last = i;
-                
+                if(first  == -1) first  = i;
+                last  = i;
             }
-        }
-        return new int[]{first,last};
+
+          }
+          return new int[]{first, last};
     }
 }

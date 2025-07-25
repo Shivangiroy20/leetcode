@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivangiroy20/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shivangiroy20/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivangiroy20/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivangiroy20/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Shivangiroy20/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Shivangiroy20/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Shivangiroy20/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shivangiroy20/leetcode/tree/master/0071-simplify-path) |

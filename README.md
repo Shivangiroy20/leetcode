@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shivangiroy20/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Shivangiroy20/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Shivangiroy20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Shivangiroy20/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shivangiroy20/leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivangiroy20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Shivangiroy20/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/0120-triangle) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivangiroy20/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shivangiroy20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shivangiroy20/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shivangiroy20/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Shivangiroy20/leetcode/tree/master/0086-partition-list) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivangiroy20/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivangiroy20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Shivangiroy20/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivangiroy20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shivangiroy20/leetcode/tree/master/0496-next-greater-element-i) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation

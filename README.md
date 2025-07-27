@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shivangiroy20/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Shivangiroy20/leetcode/tree/master/2479-meeting-rooms-iii) |

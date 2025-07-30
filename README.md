@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Shivangiroy20/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivangiroy20/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivangiroy20/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2104-operations-on-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2104-operations-on-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shivangiroy20/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shivangiroy20/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Shivangiroy20/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivangiroy20/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2104-operations-on-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2104-operations-on-tree) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivangiroy20/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Shivangiroy20/leetcode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivangiroy20/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangiroy20/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivangiroy20/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Shivangiroy20/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2104-operations-on-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2104-operations-on-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivangiroy20/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shivangiroy20/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Shivangiroy20/leetcode/tree/master/0463-island-perimeter) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Shivangiroy20/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2104-operations-on-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2104-operations-on-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Shivangiroy20/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shivangiroy20/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shivangiroy20/leetcode/tree/master/0463-island-perimeter) |
 | [0945-snakes-and-ladders](https://github.com/Shivangiroy20/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivangiroy20/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2104-operations-on-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2104-operations-on-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shivangiroy20/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Shivangiroy20/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Divide and Conquer
@@ -721,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Shivangiroy20/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Shivangiroy20/leetcode/tree/master/0817-design-hashmap) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivangiroy20/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2104-operations-on-tree](https://github.com/Shivangiroy20/leetcode/tree/master/2104-operations-on-tree) |
 ## Hash Function
 |  |
 | ------- |

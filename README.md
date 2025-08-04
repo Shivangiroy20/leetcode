@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Shivangiroy20/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0924-fair-candy-swap](https://github.com/Shivangiroy20/leetcode/tree/master/0924-fair-candy-swap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shivangiroy20/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Shivangiroy20/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Shivangiroy20/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Shivangiroy20/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Shivangiroy20/leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/Shivangiroy20/leetcode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/Shivangiroy20/leetcode/tree/master/0924-fair-candy-swap) |
+| [0940-fruit-into-baskets](https://github.com/Shivangiroy20/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Shivangiroy20/leetcode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/Shivangiroy20/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivangiroy20/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Shivangiroy20/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Shivangiroy20/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Shivangiroy20/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shivangiroy20/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |

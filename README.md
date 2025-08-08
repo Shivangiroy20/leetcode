@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Shivangiroy20/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangiroy20/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0826-soup-servings](https://github.com/Shivangiroy20/leetcode/tree/master/0826-soup-servings) |
 | [1018-largest-perimeter-triangle](https://github.com/Shivangiroy20/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1260-day-of-the-year](https://github.com/Shivangiroy20/leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Shivangiroy20/leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivangiroy20/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivangiroy20/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivangiroy20/leetcode/tree/master/0198-house-robber) |
+| [0826-soup-servings](https://github.com/Shivangiroy20/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shivangiroy20/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivangiroy20/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -769,4 +771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shivangiroy20/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Shivangiroy20/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shivangiroy20/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivangiroy20/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivangiroy20/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
 |  |
 | ------- |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shivangiroy20/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2634-minimum-common-value](https://github.com/Shivangiroy20/leetcode/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivangiroy20/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivangiroy20/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -778,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Shivangiroy20/leetcode/tree/master/0826-soup-servings) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Shivangiroy20/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->

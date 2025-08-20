@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Shivangiroy20/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivangiroy20/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shivangiroy20/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shivangiroy20/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Shivangiroy20/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivangiroy20/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shivangiroy20/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shivangiroy20/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Shivangiroy20/leetcode/tree/master/0242-valid-anagram) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivangiroy20/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shivangiroy20/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivangiroy20/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Shivangiroy20/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivangiroy20/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivangiroy20/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivangiroy20/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Shivangiroy20/leetcode/tree/master/0837-most-common-word) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shivangiroy20/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangiroy20/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Shivangiroy20/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shivangiroy20/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivangiroy20/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Shivangiroy20/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |

@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivangiroy20/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivangiroy20/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivangiroy20/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/Shivangiroy20/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/Shivangiroy20/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivangiroy20/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Shivangiroy20/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Shivangiroy20/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivangiroy20/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Shivangiroy20/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Shivangiroy20/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Shivangiroy20/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivangiroy20/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shivangiroy20/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shivangiroy20/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Shivangiroy20/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shivangiroy20/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shivangiroy20/leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Shivangiroy20/leetcode/tree/master/0874-backspace-string-compare) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivangiroy20/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shivangiroy20/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivangiroy20/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivangiroy20/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Shivangiroy20/leetcode/tree/master/0496-next-greater-element-i) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Shivangiroy20/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shivangiroy20/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
